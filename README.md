@@ -12,8 +12,6 @@ Working of the project
 2. A new window opens where the user enters the details of the missing child, including name, mobile number, address, and uploads an image of the child. The system processes the uploaded image using face detection algorithms to locate and extract the face from the image.
 <img width="281" alt="image" src="https://github.com/mrpiyushkataria/Missing_Child_Finder/assets/57060900/64030737-1bb4-4de4-a3e8-455dfe83e2ed">
 Facial features are extracted from the detected face and encoded into numerical representations known as face encodings. The child's information and face encoding are stored in the database for future reference.
-<img width="368" alt="image" src="https://github.com/mrpiyushkataria/Missing_Child_Finder/assets/57060900/d78544f7-2ac3-41be-a069-3d5886b5023b">
-
 <img width="370" alt="image" src="https://github.com/mrpiyushkataria/Missing_Child_Finder/assets/57060900/00f7f41c-0fe6-4da7-8fb2-d16e70ac38a8">
 
 
